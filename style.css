@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600,700');
 
 body {
-    color: ##404040;
+    color: #404040;
     font-size: 16px;
     line-height: 1.8;
     font-family: 'Raleway', sans-serif;
@@ -236,14 +236,14 @@ a:hover, a:active {
     font-size: 60px;
     font-weight: 600;
     line-height: 1.2;
-    color: ##404040;
+    color: #404040;
 }
 
 .hero-content-overlay p {
     font-size: 14px;
     font-weight: 500;
     line-height: 2;
-    color: ##404040;
+    color: #404040;
 }
 
 .hero-slider .pagination-wrap {
